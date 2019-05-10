@@ -68,53 +68,6 @@ public class strStr {
         return lps;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//    public int strStr(String haystack, String needle) {
-//
-//        int txtLen = haystack.length();
-//        int patLen = needle.length();
-//        if ( txtLen < patLen) return -1;
-//        if (needle.isEmpty()) return 0;
-//
-//        int[] lps = getLps(needle);
-//
-//        int i = 0, j = 0;
-//        while (i < txtLen){
-//            if (haystack.charAt(i) == needle.charAt(j)){
-//                i++;
-//                j++;
-//            }
-//            if (j == patLen){
-//                return i-j;
-//               // j = lps[j-1];// cxm lost this.
-//            }
-//
-//            if (i < txtLen && haystack.charAt(i) != needle.charAt(j)){
-//                if (j != 0){
-//                    j = lps[j-1];
-//                } else{
-//                    i++;
-//                }
-//            }
-//        }
-//        return -1;
-//    }
-
 //    public int strStrMutiple(String haystack, String needle) {
 //
 //        int txtLen = haystack.length();

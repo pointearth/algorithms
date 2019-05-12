@@ -1,6 +1,6 @@
 package com.simon.algorithm;
 
-public class Main {
+public class LongestCommonPrefix {
 
     public static void main(String[] args) {
 	// write your code here

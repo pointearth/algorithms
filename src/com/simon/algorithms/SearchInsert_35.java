@@ -1,4 +1,4 @@
-package com.simon.algorithm;
+package com.simon.algorithms;
 public class SearchInsert_35 {
     
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.simon.algorithm;
+package com.simon.algorithms;
 
 import com.sun.org.apache.xpath.internal.SourceTree;
 

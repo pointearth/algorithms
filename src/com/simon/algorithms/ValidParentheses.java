@@ -1,4 +1,4 @@
-package com.simon.algorithm;
+package com.simon.algorithms;
 
 import java.util.HashMap;
 import java.util.Stack;

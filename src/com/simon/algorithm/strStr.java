@@ -1,4 +1,4 @@
-package com.company;
+package com.simon.algorithm;
 
 import java.util.Arrays;
 

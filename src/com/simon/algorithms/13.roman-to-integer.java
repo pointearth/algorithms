@@ -1,3 +1,5 @@
+package com.simon.algorithms;
+import java.util.HashMap;
 import java.util.Map;
 
 /*
@@ -5,7 +7,7 @@ import java.util.Map;
  *
  * [13] Roman to Integer
  */
-class Solution {
+class RomanToInteger {
     public int romanToInt(String s) {
         int result = 0;
         Map<Character,Integer> map = new HashMap<>();

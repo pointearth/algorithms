@@ -1,4 +1,12 @@
-class Solution {
+package com.simon.algorithms.LongestSubstringWithoutRepeatingCharacters_3;
+import java.util.HashSet;
+import java.util.Set;
+
+class SlidingWindow {
+    public static void main(String[] args){
+        SlidingWindow sw = new SlidingWindow();
+        System.out.println(sw.lengthOfLongestSubstring("abcabcbb"));
+    }
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int i = 0;int j =0;
@@ -12,6 +20,6 @@ class Solution {
                 set.remove(s.charAt(i++));
             }
         }
-?≥        return maxLength;
+        return maxLength;
     }
   }

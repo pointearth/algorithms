@@ -1,6 +1,8 @@
 package com.simon.algorithms.twosum_1;
 
-class SolutionHash {
+import java.util.HashMap;
+
+public class SolutionHash {
     public int[] twoSum(int[] nums, int target) {
         if (2>nums.length)
             return null;

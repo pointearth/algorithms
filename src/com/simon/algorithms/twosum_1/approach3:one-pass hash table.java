@@ -1,9 +1,12 @@
 package com.simon.algorithms.twosum_1;
 
-class Solution {
+import java.util.HashMap;
+import java.util.Map;
+
+class OnePassHashTable {
     public static void main(String[] args) {
-        Solution s = new Solution();
-        s.twoSum("babad", target)
+        OnePassHashTable s = new OnePassHashTable();
+        s.twoSum(new int []{2,7,11,15}, 9);
     }
     public int[] twoSum(int[] nums, int target) {
         if (2>nums.length)

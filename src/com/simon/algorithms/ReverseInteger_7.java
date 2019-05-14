@@ -3,7 +3,7 @@ package com.simon.algorithms;
 public class ReverseInteger_7 {
 public static void main(String[] args) {
     System.out.println("aaa");
-    ReverseInteger ri = new ReverseInteger();
+    ReverseInteger_7 ri = new ReverseInteger_7();
     System.out.println(ri.reverse(123));
 }
     public int reverse(int x) {

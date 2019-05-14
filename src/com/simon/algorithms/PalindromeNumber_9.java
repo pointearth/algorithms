@@ -1,4 +1,10 @@
-class Solution {
+package com.simon.algorithms;
+//9.palindrome-number
+
+class PalindromeNumber_9 {
+    public static void main(String[] args){
+
+    }
     public boolean isPalindrome(int x) {
         // Special cases:
         // As discussed above, when x < 0, x is not a palindrome.

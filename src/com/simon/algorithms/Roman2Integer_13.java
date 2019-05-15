@@ -7,7 +7,11 @@ import java.util.Map;
  *
  * [13] Roman to Integer
  */
-class RomanToInteger {
+class Roman2Integer_13 {
+    public static void main(String[] args) {
+        Roman2Integer_13 r2i = new Roman2Integer_13();
+        System.out.println(r2i.romanToInt("IVVI"));
+    }
     public int romanToInt(String s) {
         int result = 0;
         Map<Character,Integer> map = new HashMap<>();

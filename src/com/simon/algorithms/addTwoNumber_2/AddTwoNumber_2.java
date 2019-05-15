@@ -10,7 +10,7 @@ public class AddTwoNumber_2 {
     public static void main(String[] args){
 
         AddTwoNumber_2 atn = new AddTwoNumber_2();
-        ListNode a = new ListNode(2),b= new ListNode(4),c = new ListNode(3);
+        ListNode a = new ListNode(2),b= new ListNode(5),c = new ListNode(3);
         a.next = b;
         b.next=c;
 
@@ -24,25 +24,74 @@ public class AddTwoNumber_2 {
            g = g.next;
        }
     }
+
+
     public ListNode AddTwoNumber(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(0);
-        ListNode cur = dummyHead;
+        ListNode curNode = dummyHead;
+
         int carry = 0;
-        ListNode p = l1;ListNode q = l2;
-        while(null != p || null != q){
-            int x = (p != null) ? p.val:0;
-            int y = (q != null) ? q.val:0;
-            int sum = x+y+carry;
+        while (null != l1 || null != l2){
+            int val1 = (null != l1)? l1.val:0;
+            int val2 = (null != l2)? l2.val:0;
+            int sum = val1+val2+carry;
+
+            int curResult = sum%10;
             carry = sum/10;
-            cur.next = new ListNode(sum%10);
-            cur = cur.next;
-            
-            if (p != null ) p = p.next;
-            if (q != null ) q = q.next;
+            curNode.next = new ListNode(curResult);
+            curNode = curNode.next;
+
+            if (null != l1 ) l1 = l1.next;
+            if (null != l2 ) l2 = l2.next;
+
         }
-        if (carry > 0){
-            cur.next = new ListNode(1);
+        if (carry == 1){
+            curNode.next = new ListNode(1);
+//            curNode = curNode.next;
         }
+
         return dummyHead.next;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
+//
+//    public ListNode AddTwoNumber(ListNode l1, ListNode l2) {
+//        ListNode dummyHead = new ListNode(0);
+//        ListNode cur = dummyHead;
+//        int carry = 0;
+//        ListNode p = l1;ListNode q = l2;
+//        while(null != p || null != q){
+//            int x = (p != null) ? p.val:0;
+//            int y = (q != null) ? q.val:0;
+//            int sum = x+y+carry;
+//            carry = sum/10;
+//            cur.next = new ListNode(sum%10);
+//            cur = cur.next;
+//
+//            if (p != null ) p = p.next;
+//            if (q != null ) q = q.next;
+//        }
+//        if (carry > 0){
+//            cur.next = new ListNode(1);
+//        }
+//        return dummyHead.next;
+//    }
+
+
+
 }

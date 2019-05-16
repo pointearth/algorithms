@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ac42c5-b9be-44be-b502-590c4e7d46ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/13.roman-to-integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/Roman2Integer_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/9.palindrome-number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/PalindromeNumber_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/addTwoNumber_2/AddTwoNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/addTwoNumber_2/AddTwoNumber_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/twosum_1/SolutionHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/SolutionHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/twosum_1/approach3:one-pass hash table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/OnePassHashTable_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/twosum_1/solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/BruceForce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="72" />
+            <state relative-caret-position="345">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="29">
+              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,8 +147,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="40" />
+    <option name="x" value="342" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -363,7 +356,7 @@
       <workItem from="1557674667976" duration="46000" />
       <workItem from="1557769483465" duration="234000" />
       <workItem from="1557769929173" duration="2776000" />
-      <workItem from="1557899562111" duration="11025000" />
+      <workItem from="1557899562111" duration="21506000" />
     </task>
     <task id="LOCAL-00001" summary="add reademe.md">
       <created>1557461093739</created>
@@ -376,10 +369,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16847000" />
+    <option name="totallyTimeSpent" value="27328000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="28" width="1440" height="877" extended-state="0" />
+    <frame x="342" y="31" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30114448" />
@@ -393,7 +386,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27296588" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27296588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,13 +414,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add reademe.md" />
     <option name="LAST_COMMIT_MESSAGE" value="add reademe.md" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="s.charAt(j)" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -499,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="72" />
+        <state relative-caret-position="345">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -509,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="29">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

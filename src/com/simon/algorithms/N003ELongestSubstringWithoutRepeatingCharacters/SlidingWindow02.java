@@ -9,6 +9,7 @@ public class SlidingWindow02 {
         SlidingWindow02 sw = new SlidingWindow02();
         System.out.println(sw.lengthOfLongestSubstring("abcabcdabcbb"));
     }
+
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int count = 0, i = 0, j = 0;

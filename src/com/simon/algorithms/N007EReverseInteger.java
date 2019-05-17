@@ -1,9 +1,9 @@
 package com.simon.algorithms;
 
-public class ReverseInteger_7 {
+public class N007EReverseInteger {
 public static void main(String[] args) {
     System.out.println("aaa");
-    ReverseInteger_7 ri = new ReverseInteger_7();
+    N007EReverseInteger ri = new N007EReverseInteger();
     System.out.println(ri.reverse(123));
 }
     public int reverse(int x) {

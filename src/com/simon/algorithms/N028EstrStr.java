@@ -1,14 +1,12 @@
 package com.simon.algorithms;
 
-import java.util.Arrays;
-
-public class strStr {
+public class N028EstrStr {
     public static void main(String[] args){
-        strStr ss = new strStr();
+        N028EstrStr ss = new N028EstrStr();
 //        int[] lps = ss.getLps("abababac");
 //        Arrays.stream(lps).forEach(System.out::println);
 
-//        System.out.println(ss.strStr("hello","ll"));
+//        System.out.println(ss.N028EstrStr("hello","ll"));
         System.out.println(ss.strStr("mississippi","issipp"));
 
     }

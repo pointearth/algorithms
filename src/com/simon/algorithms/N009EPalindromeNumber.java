@@ -1,8 +1,8 @@
 package com.simon.algorithms;
 
-class PalindromeNumber_9 {
+class N009EPalindromeNumber {
     public static void main(String[] args) {
-        PalindromeNumber_9 pdn = new PalindromeNumber_9();
+        N009EPalindromeNumber pdn = new N009EPalindromeNumber();
         pdn.isPalindrome(121);
     }
     public boolean isPalindrome(int x) {

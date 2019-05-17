@@ -7,9 +7,9 @@ import java.util.Map;
  *
  * [13] Roman to Integer
  */
-class Roman2Integer_13 {
+class N013ERoman2Integer {
     public static void main(String[] args) {
-        Roman2Integer_13 r2i = new Roman2Integer_13();
+        N013ERoman2Integer r2i = new N013ERoman2Integer();
         System.out.println(r2i.romanToInt("IVVI"));
     }
     public int romanToInt(String s) {

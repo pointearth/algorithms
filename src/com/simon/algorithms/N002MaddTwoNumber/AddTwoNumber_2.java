@@ -1,11 +1,14 @@
-package com.simon.algorithms.addTwoNumber_2;
+package com.simon.algorithms.N002MaddTwoNumber;
+
+import com.simon.algorithms.ListNode;
+
 /**
  * Definition for singly-linked list.**/
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
- }
+//class ListNode {
+//    int val;
+//    ListNode next;
+//    ListNode(int x) { val = x; }
+// }
 public class AddTwoNumber_2 {
     public static void main(String[] args){
 

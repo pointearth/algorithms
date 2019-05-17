@@ -3,16 +3,16 @@ package com.simon.algorithms;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class ValidParentheses {
+public class N020EValidParentheses {
     public static void main(String[] args){
 
         String s = "{{}}([])";
-        ValidParentheses vp = new ValidParentheses();
+        N020EValidParentheses vp = new N020EValidParentheses();
 
         System.out.println(vp.isValid(s));
     }
     private HashMap<Character,Character> mappings;
-    public ValidParentheses(){
+    public N020EValidParentheses(){
         mappings = new HashMap<Character,Character>();
         mappings.put(')','(');
         mappings.put(']','[');

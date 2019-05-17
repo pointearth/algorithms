@@ -1,10 +1,8 @@
 package com.simon.algorithms;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
-public class Countandsay_38 {
+public class N038ECountandsay {
     public static void main(String[] args){
-        Countandsay_38 cas = new Countandsay_38();
+        N038ECountandsay cas = new N038ECountandsay();
         System.out.println("1:"+cas.countAndSay(1));
         System.out.println("2:"+cas.countAndSay(2));
         System.out.println("3:"+cas.countAndSay(3));
@@ -24,8 +22,8 @@ public class Countandsay_38 {
             str +="#";
             char[] arr = str.toCharArray();
             str = "";
-            for (int j = 1;j<arr.length;j++){// wrong as ==
-                if (arr[j-1] != arr[j]){
+            for (int j = 1;j<arr.length;j++){
+                if (arr[j-1] != arr[j]){// wrong as ==
                     str += cnt+1;
                     str +=arr[j-1];
                     cnt =0;//forget init cnt

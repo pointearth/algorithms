@@ -1,7 +1,18 @@
-package com.simon.algorithms.twosum_1;
+package com.simon.algorithms.N001EcomTwoSun;
 
-class Solution1 {
+class BruceForce {
+
+    public static void main(String[] args) {
+        BruceForce s = new BruceForce();
+
+        int [] result = s.twoSum(new int[]{2,7,11,15},9);
+        for (int i = 0; i < result.length; i++) {
+            System.out.println(result[i]);
+        }
+
+    }
     public int[] twoSum(int[] nums, int target) {
+
         if (2>nums.length)
             return null;
         int[] indices = new int[2];

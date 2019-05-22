@@ -1,8 +1,8 @@
 package com.simon.algorithms;
-public class SearchInsert_35 {
+public class N035ESearchInsert {
     
     public static void main(String[] args) {
-        SearchInsert_35 si = new SearchInsert_35();
+        N035ESearchInsert si = new N035ESearchInsert();
         int[] nums = new int[]{1,3,5,7};
         System.out.println( si.searchInsert(nums,6));
     }

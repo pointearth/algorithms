@@ -1,12 +1,15 @@
-package com.simon.algorithms.twosum_1;
+package com.simon.algorithms.N001EcomTwoSun;
 
 import java.util.HashMap;
 import java.util.Map;
 
-class OnePassHashTable {
+class OnePassHashTable_3 {
     public static void main(String[] args) {
-        OnePassHashTable s = new OnePassHashTable();
-        s.twoSum(new int []{2,7,11,15}, 9);
+        OnePassHashTable_3 s = new OnePassHashTable_3();
+        int [] result = s.twoSum(new int[]{2,7,11,15},9);
+        for (int i = 0; i < result.length; i++) {
+            System.out.println(result[i]);
+        }
     }
     public int[] twoSum(int[] nums, int target) {
         if (2>nums.length)

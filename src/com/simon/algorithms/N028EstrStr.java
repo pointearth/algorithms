@@ -1,14 +1,16 @@
 package com.simon.algorithms;
 
-import java.util.Arrays;
+//https://leetcode.com/problems/implement-strstr/
+//https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+//https://www.zhihu.com/question/21923021
 
-public class strStr {
+public class N028EstrStr {
     public static void main(String[] args){
-        strStr ss = new strStr();
+        N028EstrStr ss = new N028EstrStr();
 //        int[] lps = ss.getLps("abababac");
 //        Arrays.stream(lps).forEach(System.out::println);
 
-//        System.out.println(ss.strStr("hello","ll"));
+//        System.out.println(ss.N028EstrStr("hello","ll"));
         System.out.println(ss.strStr("mississippi","issipp"));
 
     }
@@ -24,9 +26,7 @@ public class strStr {
 //        Arrays.stream(lps).forEach(System.out::println);
 
         int i = 0, j = 0;
-
         while (i< txtLen ){
-
             if (haystack.charAt(i) == needle.charAt(j)){
                 i++;
                 j++;
@@ -34,18 +34,16 @@ public class strStr {
             if (j == patLen){
                 return i - j;
             } else if (j != 0){
-                if (i < txtLen && haystack.charAt(i) != needle.charAt(j)){
+                if (i < txtLen && haystack.charAt(i) != needle.charAt(j)){//easty to wrong, don't write "j < patLen"
                     j = lps[j-1];
                 }
             } else {
                 i++;
             }
         }
-
         return -1;
     }
     private int[] getLps(String pat){
-
         int len = pat.length();
         int[] lps = new int[len];
 
@@ -58,13 +56,11 @@ public class strStr {
             } else {
                 if (j != 0){
                     j = lps[j-1];
-                } else {
+                } else {//normally
                     i++;
                 }
             }
-
         }
-
         return lps;
     }
 

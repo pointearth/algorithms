@@ -14,7 +14,7 @@ class N013ERoman2Integer {
     }
     public int romanToInt(String s) {
         int result = 0;
-        Map<Character,Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>();
         map.put('I', 1);
         map.put('V', 5);
         map.put('X', 10);
@@ -23,17 +23,20 @@ class N013ERoman2Integer {
         map.put('D', 500);
         map.put('M', 1000);
 
-        for (int i =s.length()-1;i>=0;i--){
+        for (int i = s.length() - 1; i >= 0; i--) {
             int cur = map.get(s.charAt(i));
-            if (i == 0){
+
+            if (i == 0) {
                 result += cur;
-                break;
+            } else {
+                int pre = map.get(s.charAt(i - 1));
+                if (pre < cur) {
+                    result += cur - pre;
+                    i--;
+                } else {
+                    result += cur;
+                }
             }
-            int pre = map.get(s.charAt(i-1));
-             if (cur>pre) {
-                result += cur - pre  ;
-                i--;
-                }else   result += cur;
         }
         return result;
     }

@@ -1,5 +1,9 @@
 package com.simon.algorithms;
 
+//https://leetcode.com/problems/implement-strstr/
+//https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+//https://www.zhihu.com/question/21923021
+
 public class N028EstrStr {
     public static void main(String[] args){
         N028EstrStr ss = new N028EstrStr();
@@ -22,9 +26,7 @@ public class N028EstrStr {
 //        Arrays.stream(lps).forEach(System.out::println);
 
         int i = 0, j = 0;
-
         while (i< txtLen ){
-
             if (haystack.charAt(i) == needle.charAt(j)){
                 i++;
                 j++;
@@ -32,18 +34,16 @@ public class N028EstrStr {
             if (j == patLen){
                 return i - j;
             } else if (j != 0){
-                if (i < txtLen && haystack.charAt(i) != needle.charAt(j)){
+                if (i < txtLen && haystack.charAt(i) != needle.charAt(j)){//easty to wrong, don't write "j < patLen"
                     j = lps[j-1];
                 }
             } else {
                 i++;
             }
         }
-
         return -1;
     }
     private int[] getLps(String pat){
-
         int len = pat.length();
         int[] lps = new int[len];
 
@@ -56,13 +56,11 @@ public class N028EstrStr {
             } else {
                 if (j != 0){
                     j = lps[j-1];
-                } else {
+                } else {//normally
                     i++;
                 }
             }
-
         }
-
         return lps;
     }
 

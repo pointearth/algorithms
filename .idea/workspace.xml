@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61ac42c5-b9be-44be-b502-590c4e7d46ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/simon/algorithms/ListNode.java" afterDir="false" />
+    <list default="true" id="61ac42c5-b9be-44be-b502-590c4e7d46ea" name="Default Changelist" comment="add reademe.md">
+      <change afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N012Mitor/N012Mitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/Countandsay_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N038ECountandsay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/LongestSubstringWithoutRepeatingCharacters_3/SlidingWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/PalindromeNumber_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N009EPalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/BruceForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/BruceForce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/OnePassHashTable_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/OnePassHashTable_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/Q001EcomTwoSun/SolutionHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/SolutionHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/ReverseInteger_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N007EReverseInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/Roman2Integer_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/SearchInsert_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N035ESearchInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N020EValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/addTwoNumber_2/AddTwoNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N008Matoi/N008Matoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N008Matoi/N008Matoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +24,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N026ERemoveDuplicatesfromSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,59 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N035ESearchInsert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="585">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -110,17 +47,74 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/SolutionHash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N007EReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N008Matoi/N008Matoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N012Mitor/N012Mitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N020EValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -133,6 +127,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>');</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;);</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,23 +165,25 @@
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/twosum_1/OnePassHashTable_3.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/addTwoNumber_2/AddTwoNumber_2.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java" />
-        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/Countandsay_38.java" />
-        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java" />
-        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/26. Remove Duplicates from Sorted Array.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/N026ERemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java" />
         <option value="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_1.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N008Matoi/N008Matoi.java" />
+        <option value="$PROJECT_DIR$/src/com/simon/algorithms/N012Mitor/N012Mitor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="y" value="23" />
+    <option name="x" value="43" />
+    <option name="y" value="115" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -189,8 +193,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="simon" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="simon" type="1f31426a:PackageElementNode" />
+              <item name="algorithms" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="simon" type="1f31426a:PackageElementNode" />
+              <item name="algorithms" type="1f31426a:PackageElementNode" />
+              <item name="N003ELongestSubstringWithoutRepeatingCharacters" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="simon" type="1f31426a:PackageElementNode" />
+              <item name="algorithms" type="1f31426a:PackageElementNode" />
+              <item name="N021EMergeTwoSortedLists" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="simon" type="1f31426a:PackageElementNode" />
+              <item name="algorithms" type="1f31426a:PackageElementNode" />
+              <item name="N021EMergeTwoSortedLists" type="1f31426a:PackageElementNode" />
+              <item name="N021EMergeTwoSortedLists_1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,10 +280,65 @@
               <item name="simon" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N001EcomTwoSun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N002MaddTwoNumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N003ELongestSubstringWithoutRepeatingCharacters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N008Matoi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N012Mitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="simon" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="N021EMergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +367,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N026ERemoveDuplicatesfromSortedArray">
+  <component name="RunManager" selected="Application.N012Mitor">
     <configuration name="LongestCommonPrefix" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.LongestCommonPrefix" />
       <module name="algorithms" />
@@ -264,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N021EMergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N021EMergeTwoSortedLists.N021EMergeTwoSortedLists" />
+    <configuration name="N008Matoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N008Matoi.N008Matoi" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.simon.algorithms.N021EMergeTwoSortedLists.*" />
+          <option name="PATTERN" value="com.simon.algorithms.N008Matoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,8 +388,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N026ERemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N026ERemoveDuplicatesfromSortedArray" />
+    <configuration name="N012Mitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N012Mitor.N012Mitor" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simon.algorithms.N012Mitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N013ERoman2Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N013ERoman2Integer" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -293,19 +417,6 @@
     <configuration name="SearchInsert_35" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N035ESearchInsert" />
       <module name="algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SlidingWindow02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.simon.algorithms.N003ELongestSubstringWithoutRepeatingCharacters.SlidingWindow02" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.simon.algorithms.N003ELongestSubstringWithoutRepeatingCharacters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -344,22 +455,22 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LongestCommonPrefix" />
       <item itemvalue="Application.SearchInsert_35" />
       <item itemvalue="Application.ValidParentheses" />
-      <item itemvalue="Application.LongestCommonPrefix" />
-      <item itemvalue="Application.SlidingWindow02" />
+      <item itemvalue="Application.N008Matoi" />
+      <item itemvalue="Application.N013ERoman2Integer" />
       <item itemvalue="Application.SlidingWindowOptimized03" />
-      <item itemvalue="Application.N021EMergeTwoSortedLists" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.N026ERemoveDuplicatesfromSortedArray" />
+      <item itemvalue="Application.N012Mitor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.N026ERemoveDuplicatesfromSortedArray" />
+        <item itemvalue="Application.N012Mitor" />
+        <item itemvalue="Application.N008Matoi" />
+        <item itemvalue="Application.N013ERoman2Integer" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.N021EMergeTwoSortedLists" />
         <item itemvalue="Application.SlidingWindowOptimized03" />
-        <item itemvalue="Application.SlidingWindow02" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +491,8 @@
       <workItem from="1557769929173" duration="2776000" />
       <workItem from="1557899562111" duration="21506000" />
       <workItem from="1558049252067" duration="1480000" />
-      <workItem from="1558080449799" duration="2949000" />
+      <workItem from="1558080449799" duration="16883000" />
+      <workItem from="1558424817916" duration="3828000" />
     </task>
     <task id="LOCAL-00001" summary="add reademe.md">
       <created>1557461093739</created>
@@ -389,17 +501,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557461093740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add reademe.md">
+      <created>1558429491053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558429491055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31757000" />
+    <option name="totallyTimeSpent" value="49519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="43" y="115" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30972818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32689556" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -408,7 +527,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27296588" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27296588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,6 +549,7 @@
       <window_info anchor="right" id="Mongo Explorer" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,10 +559,75 @@
     <MESSAGE value="add reademe.md" />
     <option name="LAST_COMMIT_MESSAGE" value="add reademe.md" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="cur" />
+        <watch expression="str.length()" language="JAVA" />
+        <watch expression="result*10" language="JAVA" />
+        <watch expression="str.charAt(i)" language="JAVA" />
+        <watch expression="result - Integer.MAX_VALUE/10 " language="JAVA" />
+        <watch expression="Integer.MAX_VALUE/10" language="JAVA" />
+        <watch expression="result - Integer.MAX_VALUE/10" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms$N008Matoi.ic" NAME="N008Matoi Coverage Results" MODIFIED="1558429250562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.simon.algorithms.N008Matoi.*</FILTER>
+    </SUITE>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>s.charAt(j)</expression-string>
+        <expression-string>result - Integer.MAX_VALUE/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.MAX_VALUE/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result == Integer.MAX_VALUE/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result = Integer.MAX_VALUE/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result &gt; Integer.MAX_VALUE/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result -</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result*10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>str.charAt(i)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -456,15 +641,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Countandsay_38.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/strStr.java" />
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/LongestcommonPrefix.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N007EReverseInteger.java" />
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/LongestSubstringWithoutRepeatingCharacters_3/SlidingWindow.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N009EPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N038ECountandsay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -479,40 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/SolutionHash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/OnePassHashTable_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N035ESearchInsert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -520,41 +663,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/21. Merge Two Sorted Lists_recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/21. Merge Two Sorted Lists_recursion.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists.java" />
     <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -562,17 +672,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N028EstrStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N002MaddTwoNumber/AddTwoNumber_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="399">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -580,6 +690,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/OnePassHashTable_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N009EPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindow02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N013ERoman2Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N003ELongestSubstringWithoutRepeatingCharacters/SlidingWindowOptimized03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N021EMergeTwoSortedLists/N021EMergeTwoSortedLists_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N001EcomTwoSun/SolutionHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N007EReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N020EValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N008Matoi/N008Matoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simon/algorithms/N012Mitor/N012Mitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

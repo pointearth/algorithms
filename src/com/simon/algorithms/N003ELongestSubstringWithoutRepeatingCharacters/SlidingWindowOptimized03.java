@@ -11,6 +11,7 @@ public class SlidingWindowOptimized03 {
         System.out.println(sw.lengthOfLongestSubstring("tmmzuxt"));
     }
 
+
     public int lengthOfLongestSubstring(String s) {
         Map<Character,Integer> map = new HashMap<>();
         int n = s.length();
@@ -31,25 +32,6 @@ public class SlidingWindowOptimized03 {
         return count;
     }
 
-
-//    public int lengthOfLongestSubstring(String s) {
-//        Map<Character,Integer> map = new HashMap<>();
-//        int n = s.length();
-//        int count =0,i=0,j=0;
-//        while (j< n){
-//            if (map.containsKey(s.charAt(j))){
-//                int dotJ = map.get(s.charAt(j));
-//                System.out.println("         "+s.charAt(j)+ " -> "+dotJ);
-//                i = Math.max(i,dotJ);
-//            }
-//            map.put(s.charAt(j),j+1);
-//            System.out.println(s.charAt(j)+ " <- "+(j+1));
-//            count = Math.max(count,j-i+1);
-//            j++;
-//
-//        }
-//        return count;
-//    }
 
 
 

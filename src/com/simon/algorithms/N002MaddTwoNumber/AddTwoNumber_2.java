@@ -37,7 +37,7 @@ public class AddTwoNumber_2 {
         while (null != l1 || null != l2){
             int val1 = (null != l1)? l1.val:0;
             int val2 = (null != l2)? l2.val:0;
-            int sum = val1+val2+carry;
+            int sum = val1+val2 + carry;
 
             int curResult = sum%10;
             carry = sum/10;

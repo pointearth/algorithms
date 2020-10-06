@@ -1,4 +1,4 @@
-package com.simon.algorithms.N001EcomTwoSun;
+package com.simon.algorithms.N001EcomTwoSum;
 
 import java.util.HashMap;
 import java.util.Map;

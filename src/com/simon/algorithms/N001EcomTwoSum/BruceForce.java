@@ -1,4 +1,4 @@
-package com.simon.algorithms.N001EcomTwoSun;
+package com.simon.algorithms.N001EcomTwoSum;
 
 class BruceForce {
 

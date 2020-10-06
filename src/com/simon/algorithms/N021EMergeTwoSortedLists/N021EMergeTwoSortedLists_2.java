@@ -25,7 +25,6 @@ class Solution {
             System.out.println(ln.val);
             ln =ln.next;
         }
-
     }
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

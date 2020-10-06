@@ -29,8 +29,13 @@ public class A3Sum {
         int splitIndex = sortAndSplit(nums);
 
         for (int i = 0;i<=splitIndex;i++){
+<<<<<<< HEAD
             if (i >0 && nums[i-1]==nums[i]){
                 continue;}
+=======
+            if (i >0 && nums[i-1]==nums[i])
+                continue;
+>>>>>>> 1f496fc7cb59f505df0338b53e1afe0f2f9d0c40
             int target = - nums[i];
             int bIndex = i+1,eIndex = nums.length-1;
 
